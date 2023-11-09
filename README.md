@@ -1,6 +1,6 @@
 # llm-overview
 
-Source for the [LLM Overview](https://nlp-and-sp-cheatsheet.readthedocs.io/en/latest/).
+Source for the [LLM Overview](https://llm-overview.readthedocs.io/en/latest/).
 Still a work in progress, and I plan to work more in it toward the end of the year.
 
 ## Contributing
@@ -25,8 +25,8 @@ the docs:
 # pipx is a tool for cleanly installing python command-line tools inside a virtual environment
 pipx poetry
 
-git clone git@github.com:yelircaasi/nlp-and-sp-cheatsheet.git
-cd nlp-and-sp-cheatsheet
+git clone git@github.com:yelircaasi/llm-overview.git
+cd llm-overview
 
 # enter virtual environment and install dependencies without installing the current project
 poetry shell
@@ -41,7 +41,7 @@ Before changing something, be sure to fetch from upstream. Add the upstream repo
 already done so.
 
 ```sh
-git remote add upstream https://github.com/yelircaasi/nlp-and-sp-cheatsheet.git
+git remote add upstream https://github.com/yelircaasi/llm-overview.git
 git fetch upstream
 ```
 

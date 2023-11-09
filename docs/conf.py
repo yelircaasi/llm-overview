@@ -39,7 +39,7 @@ source_suffix = ".rst"
 master_doc = "index"
 
 # General information about the project.
-project = "NLP & SP Cheatsheet"
+project = "LLM Overview"
 copyright = "2023"
 author = "Isaac Riley"
 
@@ -152,11 +152,11 @@ man_pages = [
 texinfo_documents = [
     (
         master_doc,
-        "NLPSPCheatsheet",
-        "NLP & SP Cheatsheet Documentation",
+        "MMLOverview",
+        "LLM Overview",
         author,
         "Contributors",
-        "Glossary of NLP & SP terms and concepts.",
+        "Overview of current developments in LLMs",
         "Miscellaneous",
     ),
 ]
