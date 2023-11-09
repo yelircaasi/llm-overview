@@ -1,6 +1,6 @@
-=========================================
-Speech and Language Processing Cheatsheet
-=========================================
+============
+LLM Overview
+============
 
 A doomed attempt to keep track of the rapid developments in the field of LLMs
 (large language models) and related topics.
@@ -8,8 +8,7 @@ A doomed attempt to keep track of the rapid developments in the field of LLMs
 .. warning::
     This is a free, community-contributed resource, and while I do my best to
     keep it accurate and up-to-date, there may be errors, so caveat lector!
-    If you find errors or omissions, please raise an
-    `issue`_ or `contribute`_ a better definition!
+    If you find errors or omissions, please raise an `issue`_ or `contribute`_!
 
     .. _issue: https://github.com/yelircaasi/llm-overview/issues
     .. _contribute: https://github.com/yelircaasi/llm-overview#contributing
